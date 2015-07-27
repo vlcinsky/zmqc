@@ -1,8 +1,11 @@
+*.egg
 *.egg-info
 *.pyc
 *.pyo
 .DS_Store
 .tox
+AUTHORS
+ChangeLog
 MANIFEST
 build
 dist
